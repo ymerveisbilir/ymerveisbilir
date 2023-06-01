@@ -1,19 +1,17 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  />
-</div>
+
 
 ###
 
+
+
+###
+
+<h1 align="center">hey there I'm Merve !..  🤩👋</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/merveisbilir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="28" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">hey there I'm Merve !..  🤩👋</h1>
-
 ###
 
 <h3 align="left">Someone on the way to become a software developer ✌️👀👩🏼‍💻</h3>
