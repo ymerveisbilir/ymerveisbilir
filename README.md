@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="28" alt="linkedin logo"  />
   </a>
 </div>
-###
+
 
 <h3 align="left">Someone on the way to become a software developer ✌️👀👩🏼‍💻</h3>
 
