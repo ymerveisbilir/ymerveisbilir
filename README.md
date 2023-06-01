@@ -14,7 +14,7 @@
 </div>
 
 
-<h3 align="center">Someone on the way to become a software developer ✌️👀👩🏼‍💻</h3>
+<h3 align="center" style="color:red;">Someone on the way to become a software developer ✌️👀👩🏼‍💻</h3>
 
 ###
 
