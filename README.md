@@ -33,7 +33,7 @@
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="58" alt="php logo"  />
   <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="58" alt="laravel logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="58" alt="laravel logo"  />
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="58" alt="mysql logo"  />
   <img width="21" />
