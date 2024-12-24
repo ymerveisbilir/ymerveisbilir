@@ -46,6 +46,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3><p>Junior Back-End Developer</p>
+<h3 align="left">🔥   My Stats :</h3><p>Back-End Developer</p>
 
 ###
